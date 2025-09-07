@@ -1,0 +1,5 @@
+{
+  "name": "AIoIA: AI Idol Photocard Co-creator",
+  "description": "Leverage Gemini's advanced capabilities to interactively co-create and personalize photocards of your favorite AI idols. Upload an image, provide a prompt, and watch the magic happen!",
+  "requestFramePermissions": []
+}
